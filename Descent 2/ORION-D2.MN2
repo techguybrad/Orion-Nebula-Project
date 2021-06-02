@@ -1,0 +1,34 @@
+name=Orion Nebula Project
+type=Normal
+num_levels = 7
+level01.rl2
+level02.rl2
+level03.rl2
+level04.rl2
+level05.rl2
+level06.rl2
+level07.rl2
+num_secrets = 1
+level1s.rl2,3
+;
+;Some web-sites to visit:
+;
+;Orion Nebula Project homepage:    http://www.descent2.com/orion
+;D2 V1.2 patch available at:       http://www.descent2.com/patches
+;PTMC Headquarters:                http://www.warpcore.org/ptmc
+;Descent Level Network:            http://www.descent2.com/levels
+;
+;A D1 version is available at http://www.descent2.com/orion !
+;
+;DO NOT COPY OR REDISTRIBUTE ANY PIECE OF THIS DESCEET 2 MISSION.
+;IT IS TO REMAIN IN ONE MISSION AND IS NOT TO BE USED IN MAKING
+;OTHER LEVELS WITHOUT THE PERMISSION OF BRADLEY SCHNEIDER
+;AND THE ORION NEBULA PROJECT TEAM.
+;
+;Contact ptmc@warpcore.org for more information.
+revision=2.01
+date=10/27/1997
+author=ONP team
+email=ptmc@warpcore.org
+web_site=http://www.descent2.com/orion
+;*** MNX Mission file made with Descent Manager V1.0 Alpha 07a Build 24 ***

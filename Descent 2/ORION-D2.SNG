@@ -1,0 +1,12 @@
+descent.hmp     d2melod.bnk     d2drums.bnk
+briefing.hmp    d2melod.bnk     d2drums.bnk
+endlevel.hmp    intmelo.bnk     intdrum.bnk
+endgame.hmp     intmelo.bnk     intdrum.bnk
+credits.hmp     melodic.bnk     drum.bnk
+game01.hmp      d2melod.bnk     d2drums.bnk
+game02.hmp      d2melod.bnk     d2drums.bnk
+game03.hmp      d2melod.bnk     d2drums.bnk
+game04.hmp      melodic.bnk     drum.bnk
+game01.hmp      melodic.bnk     drum.bnk
+game06.hmp      melodic.bnk     drum.bnk
+game07.hmp      melodic.bnk     drum.bnk

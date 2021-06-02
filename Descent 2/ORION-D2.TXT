@@ -1,0 +1,270 @@
+                             \|/                  
+                             -Orion Nebula Project
+                             /|\   Version 2.01
+
+
+The Story
+~~~~~~~~~
+About 1,500 light years from Earth there is a Nebula. This Nebula is visible
+from earth and is part of the Orion Constellation. The Orion Nebula has been
+the site of a major mining operation especially since the discovery of Orium
+a substance that is harder than diamond, is as light as aluminum, and yet
+very heat resistant. Unfortunately only one planet has been found that
+contains Orium, Alpha Pavonis. Orium is very valuable in fact the PTMC has
+sold a lot of this Orium to Intergalactic Peace Organizations, and has also
+used some of it to defend the Orion Nebula where Orium is found. There are
+Defense outposts and other bases among the Orion Nebula. Each station is
+powered by highly volatile fusion reactors that when set on detention destroy
+the entire structure and its contents. Since the discovery of Orium many
+other military and some Alien organizations have been trying to steal this
+substance in order to replicate it or use it to take over the universe. In
+most cases they have failed, until a month ago when the PTMC lost
+communication will half a fleet of robots due to an unexpected
+communications breach. After which these effected robots began to modify
+themselves and the robots around them. Soon after all mining operations were
+canceled by the rebellion of these robots. After several attempt to self
+detonate the effected mine failed the robots escaped the mine and began to
+infiltrate the entire Nebula with these modified rebel robots. Now all
+communication has been severed from the Orion Nebula. The only known
+solution is to destroy all traces of these robots meaning a manual
+detonation of the stations' and mines' reactor. You have been elected to
+lead the Orion Nebula Project. To take back what was lost. The very fate
+of the universe may depend on your victory or failure. You are the best
+pilot the PTMC has to offer, that is why you have been chosen. Now without
+fail Prepare for another Descent...
+
+
+
+What it's all about!
+~~~~~~~~~~~~~~~~~~~~
+Thank you for trying the Orion Nebula Project (ONP).  ONP is a set of add-on
+levels for Descent 2 Commercial Version 1.2 only.  It cannot be run on neither
+the Interactive Demo nor the Destination Quartzon version. ONP is the result
+of about 12 people working thousands of hours and producing the best quality
+for your pleasure.  ONP contains seven, maybe eight (if you can find it)
+levels with optional !NEW! MIDI music to listen to while you play and
+!Briefings! I relate the storyline as it unfolds.  All this is provided free
+of charge and is not intended for the purpose of profit.  But as always this
+piece of software is provided AS-IS and there is no technical support
+available.
+
+NOTE: There is also a D1 version available!
+Get it from http://www.descent2.com/orion !
+
+
+
+Notes to the V2.01 revision:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It was at beginning of November '96, one month before the initial Descent
+Manager version, where I downloaded the original Orion Nebula Project for
+Descent 1. I was immediatly keen on the quality of this level set, mainly
+because it is an allround-package: not just one or more levels, no, there is
+a story, custom music, briefings and graphic; made by a team of real Descent
+freaks! You instantly realise that the whole set was made with love to the
+detail... And in the same moment I began to dream to be part of that team...
+
+In February '97 Bradley released the Descent 2 version, but I was not that
+enthusiastic anymore: The briefing logo was replaced with a new one that
+absolutely was not my case, and -even worse- all songs by Benjamin Brewster
+were just dropped... I missed the classic quality of the Descent 1 version,
+that made it into the history of Descent; the new version just looked to me
+as a quick conversion... I offered Brad to bring out a V2.01 version a few
+days later with all musics, but it was not released...
+
+Now it is one year after I first saw the D1 version! I have made a name in the
+world of Descent Developers with such things as Descent Manager, Cool Tips
+and the Descent Developer Network. I revised Entropy Experiment for Luke
+Schneider and now am going back to the roots: The Orion Nebula Project!
+I offered Brad to make a full revise of both the D1 and the D2 version with a
+new homepage, new briefing design and -of course- all musics in the D2
+version, giving back the breath of something very special: A classical Descent
+level-set... After Brad has looked through my work on the V1.01 version of
+Entropy he granted the permission for the revision...
+
+Okay, now designing the 1.01/2.01 versions was not an easy task. Orion Nebula
+Project is THE classic amateur level set, so you cannot just put in the
+newest special effects. So the goal was to get the highest possible quality
+out of the mission without destroying its orginality nor compatibility in
+multiplayer game. I cannot just add custom polygon models, D2 robots or even
+D2 weapons, just to make it competitive to Entropy Experiment or Phobos
+Encounter! I had to be aware that Orion is a classic production and not an
+uptodate production. Compare it to letting Pink Floyd completly re-record
+"The Wall"... It just wouldn't be the same... But increasing the quality
+in a special edition is possible...
+
+But then I found a quite important bug in the original D2 version 2.0, to be
+precisely in level 4... DEVIL had made some shit, assigning a hidden door as
+an exit (additionally to the normal exit door)... So flying through it ended
+the level instead of its real task: opening a locked door at the opposite...
+I talked to Brad to let him decide what to do: let the bug or fix it making it
+incompatible in multiplayer games with V2.0... He decided the second way and
+so I fixed it... So unfortunately you won't be able to mix it with V2.0 in a
+multiplayer game :(... you first have to let everybody in the game update to
+V2.01 first... (by the way, V1.0 for D1 does not have this bug, so this does
+not apply for the D1-version...)
+
+And now it is finished and I think I was successful and accomplished my
+goals... Of course I am open for critism, just decide yourself... But even
+independant of this, something has been fulfilled: A dream has come true,
+I was working in the ONP team... A great feeling... Thanks to Brad for giving
+me this opportunity!!
+
+                             Heiko Herrmann of the Descent Level Network Team
+
+
+
+What's new in the V2.01 version:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Fully revised and overworked briefings and its graphics.
+- Corrected some misspellings.
+- Moved credits to the end of the game.
+- Included all D1-ONP-musics in D2-ONP.
+- You only need to run a batch file for correct ONP L6 and L7 musics.
+- Seperated FM-upgrade for OPL-Soundcards (Generally all cards without
+  wavetable!).
+- Now all files have to be copied into the same directory (instead of manually
+  copying them to their correct dirs, which was quite unhandy...).
+- Brought in some special effects (e.g. end-of-level screens).
+- Fixed a bug in D2-version level 4, an incorrectly set "normal exit".
+- Used new ONP logo.
+- Updated the MN2 and TXT file informations (URLs, eMail-adress etc.).
+- Full author informations in MNX and AUT formats and the mission report
+  (*.REP) available.
+
+
+
+Requirements:
+~~~~~~~~~~~~~
+1) Descent 2 Commercial is required. Destination Quartzon and the Interactive
+   Demo are NOT supported.
+
+2) Please make sure you have D2 Version 1.2 or higher running, otherwise
+   textures may not show properly. You can update to V1.2 using the patch
+   on http://www.descent2.com/patches !
+
+3) For the ONP soundtrack you need a wavetable soundcard and CD music turned
+   off (D2 Options dialog). If you are running the DOS version of Descent 2 you
+   also need to run ORION-D2.BAT before starting D2, otherwise you won't hear
+   the full soundtrack.
+
+
+
+Installation:
+~~~~~~~~~~~~~
+1) Start the EXE file within the Descent 2 MISSIONS directory.
+
+2) To enable the full soundtrack of ONP, please run ORION-D2.BAT first,
+   before starting Descent 2. If you only have a FM card or running the Win95
+   version of D2 you can skip this...
+
+3) Run Descent and choose "Orion Nebula Project" from the levels selection
+   menu. You are now playing the Orion Nebula Project.
+
+4) To fully restore the original soundtrack after playing ONP simply run
+   ORION-D2.BAT again.
+
+
+
+ATTENTION FM-Sound card (OPL2/OPL3) users:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you don't have a wavetable soundcard, only a OPL2/OPL3 chip driven
+FM-synthesizer, you won't hear the new soundtrack in this release.
+
+But this mission has been prepared to have sound on such a soundcard, too.
+You need the "FM-upgrade for Orion Nebula Project V1.01/V2.01" (which is the
+same for both D1 and D2 version). Install it in the Descent directory, at any
+time after or before you installed ONP V1.01 into it. Then run "ORION-FM.BAT"
+to enable the custom soundtrack for FM cards (but on the same turn disabling
+the level musics for all other missions :( ), and ORION-FM.BAT again to disable
+it again and re-enable the normal soundtrack for all missions...
+
+However you should take it as a temporary solution! We have made the best to
+provide the best possible sound on these cards, but this is still *FAR* away
+from a wavetable-soundcards! As these cards are not that expensive anymore, you
+should really consider buying one. Probably the best ones are the TerraTec
+soundcards, visit their homepage at http://www.terratec.net !
+
+The FM-upgrade can be downloaded seperately at http://www.descent2.com/orion !
+
+
+
+Copyright Informations:
+~~~~~~~~~~~~~~~~~~~~~~~
+All MIDI music is used with permission of the respective owners.  DO NOT
+COPY, RE-USE OR DISTRIBUTE THESE MIDI TITLES WITHOUT THEIR PERMISSION!
+
+Do not copy or redistribute any piece of this Descent mission. It is to
+remain in one mission and is not to be used in making other levels without
+the permission of Bradley Schneider and the Orion Nebula Project Team!
+
+
+
+Credits:
+~~~~~~~~
+Lead Administrator: 
+ Bradley "N2chiefs" Schneider
+
+Music Administrator:
+ Benjamin "SandStone" Brewster
+
+Briefing Administrator:
+ Mike "CaveCrawler" Sunderman
+ Heiko "HH-Software Images" Herrmann (V2.01)
+
+Level Editor:
+ Luke "Vizor" Schneider
+
+Level Designer:
+ Tim "Thumb" Fredericy
+ Jean-Etienne "Zeldo" Lavallee
+ Bradley "N2chiefs" Schneider
+ Luke "Vizor" Schneider
+ Mike "CaveCrawler" Sunderman
+ Baron "Gamefreak" Reznik
+ Zach "Agent000" VanderVeen
+
+Other Contributors:
+ Louis and Kathryn "Shelties" Piscitelle
+
+Briefing Writer:
+ Mike "CaveCrawler" Sunderman
+
+Graphics Designer:
+ Bradley "N2chiefs" Schneider
+ Heiko "HH-Software Images" Herrmann (V2.01)
+ Some Graphics are by Parallax Software
+
+FM upgrade production:
+ Heiko "HH-Software Images" Herrmann
+
+V2.01 design and production: 
+ Heiko "HH-Software Images" Herrmann
+
+Music credits:
+ Level 1 "Extention" by Benjamin "SandStone" Brewster
+ Level 2 "Space" by Zach "Agent000" VanderVeen
+ Level 3 "Voyater" by Benjamin "SandStone" Brewster
+ Level 4 "Desert" by Zach "Agent000" VanderVeen
+ Level 5 "Extention" by Benjamin "SandStone" Brewster
+ Level 6 "Webspin" by Zach "Agent000" VanderVeen
+ Level 7 "Sharp Melody" by Zach "Agent000" VanderVeen
+ Credits "Asention" by Benjamin "SandStone" Brewster
+ End of game "Roll" by Zach "Agent000" VanderVeen
+
+Also a very big thanks to the numerous people who made this all possible,
+including the makers and distributors of Descent, the people who made such
+wonderful level design tools such as DEVIL, DMB, DesEdit, Descent Studio,
+HAMM, Descent Manager and many others I forget to mention.
+Thank you one and all!
+
+                                        Orion Nebula Project Lead Administrator
+                                                   Bradley Schneider
+                                                   ptmc@warpcore.org
+
+
+
+Some web-sites to visit:
+~~~~~~~~~~~~~~~~~~~~~~~~
+Orion Nebula Project homepage:     http://www.descent2.com/orion
+PTMC Headquarters (also ONP home): http://www.warpcore.org/ptmc
+Descent Level Network:             http://www.descent2.com/levels
