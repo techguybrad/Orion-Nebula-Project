@@ -1,0 +1,113 @@
+                             \|/                  
+                             -Orion Nebula Project
+                             /|\   Version 1.0    
+
+                                   The Story
+
+About 1,500 light years from Earth there is a Nebula. This Nebula is visible 
+from earth and is part of the Orion Constellation.  The Orion Nebula has been 
+the site of a major mining operation especially since the discovery of Orium 
+a substance that is harder than diamond, is as light as aluminum, and yet 
+very heat resistant.  Unfortunately only one planet has been found that 
+contains Orium, Alpha Pavonis.  Orium is very valuable in fact the PTMC has 
+sold a lot of this Orium to Intergalactic Peace Organizations, and has also 
+used some of it to defend the Orion Nebula where Orium is found.  There are 
+Defense outposts and other bases among the Orion Nebula.  Each station is 
+powered by highly volatile fusion reactors that when set on detention destroy 
+the entire structure and its contents.  Since the discovery of Orium many 
+other military and some Alien organizations have been trying to steal this 
+substance in order to replicate it or use it to take over the universe.  In 
+most cases they have failed, until a month ago when the PTMC lost 
+communication will half a fleet of robots.  due to an unexpected 
+communications breach.  After which these effected robots began to modify 
+themselves and the robots around them.  Soon after all mining operations were 
+canceled by the rebellion of these robots.  After several attempt to self 
+detonate the effected mine failed the robots escaped the mine and began to 
+infiltrate the intire Nebula with these modified rebel robots.  Now all 
+communication has been severed from the Orion Nebula.  The only known 
+solution is to destroy all traces of these robots meaning a manual 
+detonation of the stations' and mines' reactor.  You have been elected to 
+lead the Orion Nebula Project.  To take back what was lost.  The very fate 
+of the universe may depend on your victory or failure.  You are the best 
+pilot the PTMC has to offer, that is why you have been chosen.  Now without 
+fail Prepare for another Descent... 
+
+
+                                What it's all about!
+
+Thank you for trying the Orion Nebula Project (ONP).  ONP is a set of add-on
+levels for Descent 1 registered version only.  It cannot be run on the
+shareware version.  ONP is the result of about 12 people working thousands of
+hours and producing the best quality for your pleasure.  ONP contains seven,
+maybe eight (if you can find it) levels with exit sequences, custom briefings
+that relate the story as it unfolds, and finally and most stunning is the
+optional !NEW! MIDI music to listen to while you play.  All this is provided
+free of charge and is not intended for the purpose of profit.  But as always
+this piece of software is provided AS-IS and there is no technical support
+available.
+
+
+                                 Installation:
+
+1) Unzip the ORION-1.ZIP file into your Descent 1 directory.  The archive should
+contain the following files:
+
+ORION.HOG
+ORION.MSN
+ORION.SNG
+ORION.TXT
+ONP-MUSC.BAT
+MUSC-OFF.BAT
+
+2) If you want the optional MIDI music run ONP-MUSC.BAT before you run Descent.
+The music will be enabled every time you play Descent until you run MUSC-OFF.BAT
+which will disable the MIDI music.  !WARNING!  While the music is enabled
+Descent will not any play music in any levels other than ONP.
+
+3) Run Descent and choose "Orion Nebula Project" from the levels selection menu.
+You are now playing the Orion Nebula Project.
+
+
+                                   Credits:
+
+                Lead Administrator: Bradley Schneider - N2chiefs
+               Music Administrator: Benjamin Brewster - SandStone
+              Briefing Administrator: Mike Sunderman - Cavecrawler
+                      Level Editor: Luke Schneider - Vizor
+
+                    Level Designer: Tim Fredericy - Top Thumb
+                    Level Designer: Jean-Etienne Lavallee - Zeldo
+                    Level Designer: Bradley Schneider - N2chiefs
+                    Level Designer: Luke Schneider - Vizor
+                    Level Designer: Mike Sunderman - Cavecrawler
+                    Level Designer: Baron Reznik - Gamefreak
+                    Level Designer: Zach VanderVeen - Agent000
+
+            Other Contributors: Louis and Kathryn Piscitelle - Shelties
+                   Briefing Writer: Mike Sunderman - Cavecrawler
+                        Graphics Designer: Alex McMorris
+
+
+                                Music Credits:
+
+All MIDI music is used with permission of the respective owners.  DO NOT
+COPY, RE-USE OR DISTRIBUTE THESE MIDI TITLES WITHOUT THEIR PERMISSION!
+
+      Designer of music for briefings "Roll": Zach VanderVeen - Agent000
+Designer of music for end of game "Asention": Benjamin Brewster - SandStone
+       Designer of music for level 2 "Space": Zach VanderVeen - Agent000
+   Designer of music for level 1 "Extention": Benjamin Brewster - SandStone
+     Designer of music for level 6 "Webspin": Zach VanderVeen - Agent000
+     Designer of music for level 3 "Voyager": Benjamin Brewster - SandStone
+      Designer of music for level 4 "Desert": Zach VanderVeen - Agent000
+Designer of music for level 7 "Sharp Melody": Zach VanderVeen - Agent000
+
+
+Also a very big thanks to the numerous people who made this all possible,
+including the makers and distributors of Descent, the people who made such
+wonderful level design tools such as DEVIL, DMB, DesEdit, Descent Studio,
+HAMM, and many others I forgot to mention.  Thank you one and all!
+
+                                        Orion Nebula Project Lead Administrator
+                                                   Bradley Schneider
+

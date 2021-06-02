@@ -1,0 +1,17 @@
+name = Orion Nebula Project
+type = normal
+briefing = orion
+num_levels = 7
+level01.rdl
+level02.rdl
+level03.rdl
+level04.rdl
+level05.rdl
+level06.rdl
+level07.rdl
+num_secrets = 1
+level01s.rdl,3
+;
+;Visit PTMC HeadQuarters the home of the Orion Nebula Project
+;
+;           http://www2.southwind.net/~n2chiefs
