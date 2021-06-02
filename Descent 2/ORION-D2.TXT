@@ -93,7 +93,7 @@ uptodate production. Compare it to letting Pink Floyd completly re-record
 in a special edition is possible...
 
 But then I found a quite important bug in the original D2 version 2.0, to be
-precisely in level 4... DEVIL had made some shit, assigning a hidden door as
+precisely in level 4... DEVIL had made some s***, assigning a hidden door as
 an exit (additionally to the normal exit door)... So flying through it ended
 the level instead of its real task: opening a locked door at the opposite...
 I talked to Brad to let him decide what to do: let the bug or fix it making it
