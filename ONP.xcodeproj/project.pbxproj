@@ -15,13 +15,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A2BA5D202667ED570041072B /* ONP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ONP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2BA5D202667ED570041072B /* ONP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = ONP.app; path = "/Users/brad/Library/Mobile Documents/com~apple~CloudDocs/Hobbies/Swift Projects/ONP/build/Debug-iphoneos/ONP.app"; sourceTree = "<absolute>"; };
 		A2BA5D232667ED570041072B /* ONPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ONPApp.swift; sourceTree = "<group>"; };
 		A2BA5D252667ED570041072B /* ONPDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ONPDocument.swift; sourceTree = "<group>"; };
 		A2BA5D272667ED570041072B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A2BA5D292667ED580041072B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2BA5D2C2667ED580041072B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A2BA5D2E2667ED580041072B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2BA5D362667EDDD0041072B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A2BA5D372667EDEC0041072B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,16 +43,7 @@
 				A2BA5D352667ED840041072B /* Descent 2 */,
 				A2BA5D342667ED6B0041072B /* Descent 1 */,
 				A2BA5D222667ED570041072B /* ONP */,
-				A2BA5D212667ED570041072B /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		A2BA5D212667ED570041072B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A2BA5D202667ED570041072B /* ONP.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		A2BA5D222667ED570041072B /* ONP */ = {
@@ -77,6 +70,7 @@
 		A2BA5D342667ED6B0041072B /* Descent 1 */ = {
 			isa = PBXGroup;
 			children = (
+				A2BA5D372667EDEC0041072B /* README.md */,
 			);
 			path = "Descent 1";
 			sourceTree = "<group>";
@@ -84,6 +78,7 @@
 		A2BA5D352667ED840041072B /* Descent 2 */ = {
 			isa = PBXGroup;
 			children = (
+				A2BA5D362667EDDD0041072B /* README.md */,
 			);
 			path = "Descent 2";
 			sourceTree = "<group>";
@@ -131,7 +126,7 @@
 				Base,
 			);
 			mainGroup = A2BA5D172667ED570041072B;
-			productRefGroup = A2BA5D212667ED570041072B /* Products */;
+			productRefGroup = A2BA5D172667ED570041072B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
